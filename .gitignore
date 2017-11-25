@@ -1,0 +1,14 @@
+# Ignore all
+*
+
+# Except
+!.gitignore
+!README.md
+!*/
+!*/*/
+!*/*/src/
+!*/*/src/**
+!*/*/README.md
+
+
+
